@@ -1,0 +1,11 @@
+﻿CD_POS_STA,Année,Trimestre,Mois,Jour,LB_POS_STA,LB_POS_STA_ODS
+AC,2024,Qtr 1,février,26,Activité,ACTIVITE
+CP,2024,Qtr 1,février,26,Congé parental,CONGE PARENTAL
+DE,2024,Qtr 1,février,26,Détachement,DETACHEMENT
+DI,2024,Qtr 1,février,26,Disponibilité,DISPONIBILITE
+MD,2024,Qtr 1,février,26,Mise à disposition,MISE A DISPOSITION
+NP,2024,Qtr 1,février,26,Non payé,NON PAYE
+NR,2024,Qtr 1,février,26,Congé non rémunéré,CONGE NON REMUNERE
+SN,2024,Qtr 1,février,26,Service national,SERVICE NATIONAL
+ST,2024,Qtr 1,février,26,Congé sans traitement,CONGE SANS TRAITEM
+ZZ,2024,Qtr 2,avril,15,MANQUANT,MANQUANT

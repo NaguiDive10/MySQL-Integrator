@@ -1,0 +1,386 @@
+﻿CD_METIER,CD_METIER_FAMILLE,Somme de CD_METIER_NB_CAR,CD_METIER_SS_FAMILLE,CD_METIER_TENSION,Année,Trimestre,Mois,Jour,LB_METIER,LB_METIER_FAMILLE,LB_METIER_SS_FAMILLE,Somme de NB_MATRIC
+05C100,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier en soins généraux,Soins,Soins infirmiers,37525
+05C101,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier en santé mentale,Soins,Soins infirmiers,817
+05C103,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier en réanimation,Soins,Soins infirmiers,4070
+05C104,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier en santé au travail,Soins,Soins infirmiers,60
+05C105,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier aux urgences,Soins,Soins infirmiers,1411
+05C200,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier de bloc opératoire,Soins,Soins infirmiers,1838
+05C300,05,6,05C,N,2024,Qtr 4,novembre,6,Infirmier en anesthésie réanimation,Soins,Soins infirmiers,1471
+05C400,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmière puéricultrice,Soins,Soins infirmiers,1611
+05C500,05,6,05C,O,2024,Qtr 4,novembre,6,Infirmier perfusionniste,Soins,Soins infirmiers,73
+05CAA0,05,6,05C,N,2024,Qtr 4,novembre,6,Infirmier en pratique avancée,Soins,Soins infirmiers,19
+05CAA1,05,6,05C,N,2024,Qtr 4,novembre,6,Infirmier prat avancée Path chroniq,Soins,Soins infirmiers,61
+05CAA2,05,6,05C,N,2024,Qtr 4,novembre,6,Infirmier prat avancée Oncologie,Soins,Soins infirmiers,20
+05CAA3,05,6,05C,N,2024,Qtr 4,novembre,6,Infirmier prat avancée Malad rénale,Soins,Soins infirmiers,9
+05CAA4,05,6,05C,N,2024,Qtr 4,novembre,6,Infirmier prat avancée Santé mental,Soins,Soins infirmiers,9
+05F100,05,6,05F,O,2024,Qtr 4,novembre,6,Sage femme,Soins,Sage femme,1
+05I100,05,6,05I,N,2024,Qtr 4,novembre,6,Diététicien,Soins,Soins de rééducation,862
+05I200,05,6,05I,N,2024,Qtr 4,novembre,6,Orthophoniste,Soins,Soins de rééducation,450
+05I300,05,6,05I,N,2024,Qtr 4,novembre,6,Masseur kinésithérapeute,Soins,Soins de rééducation,2066
+05I400,05,6,05I,N,2024,Qtr 4,novembre,6,Orthoptiste,Soins,Soins de rééducation,277
+05I500,05,6,05I,N,2024,Qtr 4,novembre,6,Pédicure podologue,Soins,Soins de rééducation,54
+05I600,05,6,05I,N,2024,Qtr 4,novembre,6,Ergothérapeute,Soins,Soins de rééducation,556
+05I700,05,6,05I,N,2024,Qtr 4,novembre,6,Psychomotricien,Soins,Soins de rééducation,370
+05L100,05,6,05L,N,2024,Qtr 4,novembre,6,Technicien de laboratoire médical,Soins,Soins médico-techniques,4848
+05L200,05,6,05L,O,2024,Qtr 4,novembre,6,Préparateur pharmacie hospitalière,Soins,Soins médico-techniques,1747
+05L300,05,6,05L,O,2024,Qtr 4,novembre,6,Manipulateur radiologie médicale,Soins,Soins médico-techniques,2494
+05L302,05,6,05L,O,2024,Qtr 4,novembre,6,Manip Spécialiste radioprotection,Soins,Soins médico-techniques,48
+05L400,05,6,05L,N,2024,Qtr 4,novembre,6,Physicien médical,Soins,Soins médico-techniques,94
+05L402,05,6,05L,O,2024,Qtr 4,novembre,6,Physicien médical radioprotection,Soins,Soins médico-techniques,13
+05L600,05,6,05L,O,2024,Qtr 4,novembre,6,Dosimétriste,Soins,Soins médico-techniques,22
+05L700,05,6,05L,N,2024,Qtr 4,novembre,6,Ingénieur en biologie médicale,Soins,Soins médico-techniques,148
+05L800,05,6,05L,N,2024,Qtr 4,novembre,6,Bio informaticien,Soins,Soins médico-techniques,70
+05LAA0,05,6,05L,N,2024,Qtr 4,novembre,6,Agent en secteur médico-technique,Soins,Soins médico-techniques,1778
+05LAB0,05,6,05L,N,2024,Qtr 4,novembre,6,Technicien production produit santé,Soins,Soins médico-techniques,51
+05LAC0,05,6,05L,N,2024,Qtr 4,novembre,6,Technicien expérimentation animale,Soins,Soins médico-techniques,6
+05LAD0,05,6,05L,O,2024,Qtr 4,novembre,6,Technicien du sommeil EEG,Soins,Soins médico-techniques,13
+05M200,05,6,05M,N,2024,Qtr 4,novembre,6,Conseiller en génétique,Soins,Conseil aux personnes,70
+05M600,05,6,05M,N,2024,Qtr 4,novembre,6,Conseiller conjugal,Soins,Conseil aux personnes,21
+05R100,05,6,05R,N,2024,Qtr 4,novembre,6,Aide-soignant,Soins,Assistance aux soins,33131
+05R101,05,6,05R,N,2024,Qtr 4,novembre,6,Aide-soignant en santé mentale,Soins,Assistance aux soins,595
+05R102,05,6,05R,N,2024,Qtr 4,novembre,6,Assistant de soins en gérontologie,Soins,Assistance aux soins,59
+05R103,05,6,05R,N,2024,Qtr 4,novembre,6,Aide-soignant en polyhandicap,Soins,Assistance aux soins,596
+05R200,05,6,05R,N,2024,Qtr 4,novembre,6,Socio-esthéticien,Soins,Assistance aux soins,24
+05R300,05,6,05R,N,2024,Qtr 4,novembre,6,Brancardier,Soins,Assistance aux soins,2166
+05R400,05,6,05R,N,2024,Qtr 4,novembre,6,Assistant dentaire,Soins,Assistance aux soins,59
+05R500,05,6,05R,N,2024,Qtr 4,novembre,6,Auxiliaire de puériculture,Soins,Assistance aux soins,3601
+05R600,05,6,05R,N,2024,Qtr 4,novembre,6,Agent de service mortuaire,Soins,Assistance aux soins,245
+05R700,05,6,05R,N,2024,Qtr 4,novembre,6,Responsable de service mortuaire,Soins,Assistance aux soins,16
+05R900,05,6,05R,N,2024,Qtr 4,novembre,6,Encadrant transport sanitaire,Soins,Assistance aux soins,22
+05R950,05,6,05R,N,2024,Qtr 4,novembre,6,Ambulancier,Soins,Assistance aux soins,250
+05R951,05,6,05R,N,2024,Qtr 4,novembre,6,Ambulancier SMUR,Soins,Assistance aux soins,284
+05RAA0,05,6,05R,N,2024,Qtr 4,novembre,6,Agent en unité de soins,Soins,Assistance aux soins,1763
+05RAB0,05,6,05R,N,2024,Qtr 4,novembre,6,Coiffeur,Soins,Assistance aux soins,7
+05T100,05,6,05T,N,2024,Qtr 4,novembre,6,Coordinateur de parcours en santé,Soins,Coordination en santé,456
+05T200,05,6,05T,N,2024,Qtr 4,novembre,6,Coordinateur prélèvt transpl organe,Soins,Coordination en santé,106
+05TAA0,05,6,05T,N,2024,Qtr 4,novembre,6,Gestionnaire de lits,Soins,Coordination en santé,127
+05TAB0,05,6,05T,O,2024,Qtr 4,novembre,6,Expert en soins infirmiers,Soins,Coordination en santé,49
+05TAC0,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste clinique,Soins,Coordination en santé,15
+05TAC1,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste clinique stomathérapie,Soins,Coordination en santé,31
+05TAC2,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste clinique en échographie,Soins,Coordination en santé,5
+05TAC3,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste clinique en douleur,Soins,Coordination en santé,31
+05TAC4,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste clinique en gériatrie,Soins,Coordination en santé,3
+05TAC5,05,6,05T,O,2024,Qtr 4,novembre,6,Spécialiste clinique EEG,Soins,Coordination en santé,57
+05TAC6,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste cliniq soins palliatifs,Soins,Coordination en santé,33
+05TAC7,05,6,05T,N,2024,Qtr 4,novembre,6,Spécialiste éducation thérapeutique,Soins,Coordination en santé,101
+05TAD0,05,6,05T,N,2024,Qtr 4,novembre,6,Coordinateur de filières en santé,Soins,Coordination en santé,9
+05TAE0,05,6,05T,N,2024,Qtr 4,novembre,6,Directeur opérationnel de blocs op,Soins,Coordination en santé,2
+05U100,05,6,05U,O,2024,Qtr 4,novembre,6,Cadre paramédical de DMU,Soins,Management des organisations soins,245
+05U200,05,6,05U,O,2024,Qtr 4,novembre,6,Cadre unité soins activités paraméd,Soins,Management des organisations soins,3363
+05U201,05,6,05U,O,2024,Qtr 4,novembre,6,Cadre d unité soins chargé missions,Soins,Management des organisations soins,194
+05UAA0,05,6,05U,O,2024,Qtr 4,novembre,6,Cadre resp secteurs soins paraméd,Soins,Management des organisations soins,601
+05UAA1,05,6,05U,O,2024,Qtr 4,novembre,6,Cadre secteurs soins chargé mission,Soins,Management des organisations soins,186
+05X100,05,6,05X,O,2024,Qtr 4,novembre,6,Formateur des professionnels santé,Soins,Formation et ingénierie formation aux soins,89
+05X101,05,6,05X,O,2024,Qtr 4,novembre,6,Formateur prof santé forma continu,Soins,Formation et ingénierie formation aux soins,50
+05X102,05,6,05X,O,2024,Qtr 4,novembre,6,Formateur prof santé forma initiale,Soins,Formation et ingénierie formation aux soins,799
+05Z100,05,6,05Z,N,2024,Qtr 4,novembre,6,Audioprothésiste,Soins,Appareillage de personnes,38
+05Z101,05,6,05Z,N,2024,Qtr 4,décembre,20,Régleur en implants cochléaires,Soins,Appareillage de personnes,0
+05Z200,05,6,05Z,N,2024,Qtr 4,décembre,20,Epithésiste,Soins,Appareillage de personnes,0
+05Z300,05,6,05Z,N,2024,Qtr 4,décembre,20,Oculariste,Soins,Appareillage de personnes,0
+05Z400,05,6,05Z,N,2024,Qtr 4,décembre,20,Orthopédiste-orthésiste,Soins,Appareillage de personnes,0
+05Z500,05,6,05Z,N,2024,Qtr 4,novembre,6,Orthoprothésiste,Soins,Appareillage de personnes,12
+05Z600,05,6,05Z,N,2024,Qtr 4,novembre,6,Podo-orthésiste,Soins,Appareillage de personnes,5
+05Z700,05,6,05Z,N,2024,Qtr 4,novembre,6,Prothésiste dentaire,Soins,Appareillage de personnes,16
+10C100,10,6,10C,N,2024,Qtr 4,novembre,6,Responsable socio-éducatif,"Social, éducatif, psychologie et culturel",Management socio-éducatif,56
+10C200,10,6,10C,N,2024,Qtr 4,novembre,6,Encadrant socio-éducatif,"Social, éducatif, psychologie et culturel",Management socio-éducatif,78
+10C300,10,6,10C,O,2024,Qtr 4,novembre,6,Responsable de crèche,"Social, éducatif, psychologie et culturel",Management socio-éducatif,150
+10C301,10,6,10C,N,2024,Qtr 4,novembre,6,Coordonnatrice de crèches,"Social, éducatif, psychologie et culturel",Management socio-éducatif,20
+10F100,10,6,10F,O,2024,Qtr 4,novembre,6,Educateur spécialisé,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,180
+10F200,10,6,10F,N,2024,Qtr 4,novembre,6,Educateur jeunes enfants,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,78
+10F201,10,6,10F,N,2024,Qtr 4,novembre,6,Educateur J. Enfant crèche c.loisir,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,276
+10F202,10,6,10F,N,2024,Qtr 4,novembre,6,Educateur J. Enfants serv cliniques,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,64
+10F300,10,6,10F,O,2024,Qtr 4,novembre,6,Educateur technique spécialisé,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,62
+10F400,10,6,10F,O,2024,Qtr 4,novembre,6,Assistant social,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,79
+10F401,10,6,10F,O,2024,Qtr 4,novembre,6,Assistant social des usagers,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,1387
+10F402,10,6,10F,O,2024,Qtr 4,novembre,6,Assistant social des personnels,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,115
+10F500,10,6,10F,N,2024,Qtr 4,novembre,6,Conseiller éco sociale et familiale,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,35
+10F600,10,6,10F,N,2024,Qtr 4,novembre,6,Mandataire judic protection majeurs,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,20
+10F700,10,6,10F,N,2024,Qtr 4,novembre,6,Moniteur éducateur,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,35
+10F800,10,6,10F,N,2024,Qtr 4,novembre,6,Educateur sportif,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,196
+10FAA0,10,6,10F,O,2024,Qtr 4,novembre,6,Infirmière puéricultrice en crèche,"Social, éducatif, psychologie et culturel",Conception / Développement projets socio-éduc,115
+10I100,10,6,10I,N,2024,Qtr 4,novembre,6,Aide médico psychologique,"Social, éducatif, psychologie et culturel",Assistance mise en oeuvre projets socio-éduc,71
+10I101,10,6,10I,N,2024,Qtr 4,décembre,20,Assistant de soins en gérontologie,"Social, éducatif, psychologie et culturel",Assistance mise en oeuvre projets socio-éduc,0
+10IAA0,10,6,10I,N,2024,Qtr 4,novembre,6,Auxiliaire de puériculture crèche,"Social, éducatif, psychologie et culturel",Assistance mise en oeuvre projets socio-éduc,1919
+10IAB0,10,6,10I,N,2024,Qtr 4,novembre,6,Agent petite enfance,"Social, éducatif, psychologie et culturel",Assistance mise en oeuvre projets socio-éduc,652
+10L200,10,6,10L,N,2024,Qtr 4,novembre,6,Ministre du culte,"Social, éducatif, psychologie et culturel","Socioculturel, loisirs et cultuel",139
+10L300,10,6,10L,N,2024,Qtr 4,novembre,6,Animateur,"Social, éducatif, psychologie et culturel","Socioculturel, loisirs et cultuel",174
+10L301,10,6,10L,N,2024,Qtr 4,novembre,6,Responsable de l animation,"Social, éducatif, psychologie et culturel","Socioculturel, loisirs et cultuel",28
+10LAA0,10,6,10L,N,2024,Qtr 4,novembre,6,Agent d animation,"Social, éducatif, psychologie et culturel","Socioculturel, loisirs et cultuel",484
+10P100,10,6,10P,N,2024,Qtr 4,novembre,6,Psychologue,"Social, éducatif, psychologie et culturel",Psychologie,2174
+15D600,15,6,15D,N,2024,Qtr 4,novembre,6,Biostatisticien,Recherche clinique,"Conception, gestion, analyse des données",157
+15D800,15,6,15D,N,2024,Qtr 4,novembre,6,Gestionnaire données biomédicales,Recherche clinique,"Conception, gestion, analyse des données",132
+15F100,15,6,15F,N,2024,Qtr 4,novembre,6,Technicien d études cliniques,Recherche clinique,Investigation,1518
+15F200,15,6,15F,N,2024,Qtr 4,novembre,6,Coordinateur d études cliniques,Recherche clinique,Investigation,240
+15F300,15,6,15F,N,2024,Qtr 4,novembre,6,Ingénieur de recherche hospitalier,Recherche clinique,Investigation,1118
+15F400,15,6,15F,N,2024,Qtr 4,novembre,6,Ingénieur d études hospitalier,Recherche clinique,Investigation,418
+15FAA0,15,6,15F,N,2024,Qtr 4,novembre,6,Responsable de biobanque,Recherche clinique,Investigation,2
+15FAB0,15,6,15F,O,2024,Qtr 4,novembre,6,Infirmier en recherche clinique,Recherche clinique,Investigation,90
+15L100,15,6,15L,N,2024,Qtr 4,novembre,6,Assistant de recherche clinique,Recherche clinique,"Coordination, organisation et surveillance",1800
+15L200,15,6,15L,N,2024,Qtr 4,novembre,6,Chef de projets recherche clinique,Recherche clinique,"Coordination, organisation et surveillance",451
+15LAA0,15,6,15L,N,2024,Qtr 4,novembre,6,Coordo paramédical recherche SIRMT,Recherche clinique,"Coordination, organisation et surveillance",10
+15LAB0,15,6,15L,N,2024,Qtr 4,novembre,6,Expert recherche cliniq innovation,Recherche clinique,"Coordination, organisation et surveillance",83
+15LAC0,15,6,15L,N,2024,Qtr 4,novembre,6,Responsable de secteur/pôle DRCI,Recherche clinique,"Coordination, organisation et surveillance",30
+15LAD0,15,6,15L,N,2024,Qtr 4,novembre,6,Cadre unités de recherche clinique,Recherche clinique,"Coordination, organisation et surveillance",22
+15LAD1,15,6,15L,N,2024,Qtr 4,décembre,20,Encadrant de recherche clinique,Recherche clinique,"Coordination, organisation et surveillance",0
+20C100,20,6,20C,N,2024,Qtr 4,novembre,6,Responsable des travaux,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",42
+20C200,20,6,20C,N,2024,Qtr 4,novembre,6,Responsable services biomédicaux,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",45
+20C201,20,6,20C,N,2024,Qtr 4,décembre,20,Administrateur GMAO biomédical,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",0
+20C300,20,6,20C,N,2024,Qtr 4,novembre,6,Responsable de la maintenance TCE,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",69
+20C301,20,6,20C,N,2024,Qtr 4,novembre,6,Administrateur GMAO GTC technique,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",8
+20CAA0,20,6,20C,N,2024,Qtr 4,novembre,6,Responsable des services techniques,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",71
+20CAA3,20,6,20C,N,2024,Qtr 4,novembre,6,Programmiste,Ingénierie et maintenance techniques,"Management Ingénierie, maintenance technique",17
+20F100,20,6,20F,N,2024,Qtr 4,novembre,6,Conducteur d opérations TCE,Ingénierie et maintenance techniques,Ingénierie et réalisations tous corps d'état,104
+20F200,20,6,20F,N,2024,Qtr 4,novembre,6,Conducteur de travaux TCE,Ingénierie et maintenance techniques,Ingénierie et réalisations tous corps d'état,127
+20F700,20,6,20F,N,2024,Qtr 4,novembre,6,Dessinateur - projeteur TCE,Ingénierie et maintenance techniques,Ingénierie et réalisations tous corps d'état,67
+20I100,20,6,20I,N,2024,Qtr 4,novembre,6,Maçon,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,13
+20I200,20,6,20I,N,2024,Qtr 4,novembre,6,Encadrant maint Corps Etat secondai,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,49
+20I300,20,6,20I,N,2024,Qtr 4,novembre,6,Agent maintenance générale bâtiment,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,71
+20I400,20,6,20I,N,2024,Qtr 4,novembre,6,Menuisier - agenceur,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,117
+20I500,20,6,20I,N,2024,Qtr 4,novembre,6,Métallier - serrurier,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,170
+20I600,20,6,20I,N,2024,Qtr 4,novembre,6,Peintre en bâtiment,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,52
+20IAA0,20,6,20I,N,2024,Qtr 4,novembre,6,Egoutier,Ingénierie et maintenance techniques,Maint clos/couverts et aménagement intérieurs,1
+20L100,20,6,20L,N,2024,Qtr 4,novembre,6,Encadrant maintenance élec automat,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",125
+20L200,20,6,20L,N,2024,Qtr 4,novembre,6,Electromécanicien de maintenance,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",157
+20L201,20,6,20L,N,2024,Qtr 4,décembre,20,Automaticien de maintenance,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",0
+20L202,20,6,20L,N,2024,Qtr 4,novembre,6,Pneumaticien de maintenance,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",3
+20L400,20,6,20L,N,2024,Qtr 4,novembre,6,Electricien de maintenance,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",466
+20L401,20,6,20L,N,2024,Qtr 4,novembre,6,Electricien courants faibles,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",18
+20L402,20,6,20L,N,2024,Qtr 4,novembre,6,Electricien courants forts,Ingénierie et maintenance techniques,"Instal/Maint système élec,électro,automatisme",10
+20M100,20,6,20M,N,2024,Qtr 4,novembre,6,Conseiller en ingénierie biomédical,Ingénierie et maintenance techniques,Ingénierie et maintenance biomédicale,49
+20M200,20,6,20M,N,2024,Qtr 4,novembre,6,Encadrant maintenance biomédicale,Ingénierie et maintenance techniques,Ingénierie et maintenance biomédicale,22
+20M300,20,6,20M,N,2024,Qtr 4,novembre,6,Technicien biomédical,Ingénierie et maintenance techniques,Ingénierie et maintenance biomédicale,247
+20MAA0,20,6,20M,N,2024,Qtr 4,novembre,6,Métrologue,Ingénierie et maintenance techniques,Ingénierie et maintenance biomédicale,7
+20R200,20,6,20R,N,2024,Qtr 4,novembre,6,Encadrant maint équipt sanit therm,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,104
+20R201,20,6,20R,N,2024,Qtr 4,novembre,6,Administrateur GTC thermique,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,4
+20R300,20,6,20R,N,2024,Qtr 4,novembre,6,Monteur instal maint sanit therm,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,46
+20R301,20,6,20R,N,2024,Qtr 4,novembre,6,Thermicien / chauffagiste,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,44
+20R302,20,6,20R,N,2024,Qtr 4,novembre,6,Frigoriste,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,63
+20R303,20,6,20R,N,2024,Qtr 4,novembre,6,Plombier,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,241
+20R304,20,6,20R,N,2024,Qtr 4,novembre,6,Technicien fluides médicaux,Ingénierie et maintenance techniques,Instal/Maint équipements thermique sani/fluid,28
+20U300,20,6,20U,N,2024,Qtr 4,novembre,6,Encadrant maint équipt matér méca,Ingénierie et maintenance techniques,Maintenance matériel et équipement mécaniques,17
+20U500,20,6,20U,N,2024,Qtr 4,novembre,6,Mécanicien de maintenance,Ingénierie et maintenance techniques,Maintenance matériel et équipement mécaniques,42
+20UAA0,20,6,20U,N,2024,Qtr 4,novembre,6,Carrossier / Peintre carrossier,Ingénierie et maintenance techniques,Maintenance matériel et équipement mécaniques,6
+20X100,20,6,20X,N,2024,Qtr 4,novembre,6,Encadrant espaces verts,Ingénierie et maintenance techniques,Espaces verts,16
+20X200,20,6,20X,N,2024,Qtr 4,novembre,6,Agent d entretien des espaces verts,Ingénierie et maintenance techniques,Espaces verts,102
+25F100,25,6,25F,N,2024,Qtr 4,novembre,6,Responsable des achats,Achat-Logistique,Achat,83
+25F200,25,6,25F,N,2024,Qtr 4,novembre,6,Acheteur,Achat-Logistique,Achat,137
+25F300,25,6,25F,N,2024,Qtr 4,novembre,6,Gestionnaire des marchés publics,Achat-Logistique,Achat,66
+25F301,25,6,25F,N,2024,Qtr 4,novembre,6,Gestionnaire des travaux,Achat-Logistique,Achat,86
+25F400,25,6,25F,N,2024,Qtr 4,novembre,6,Responsable des marchés publics,Achat-Logistique,Achat,30
+25FAA0,25,6,25F,N,2024,Qtr 4,novembre,6,Expert en produits de santé,Achat-Logistique,Achat,52
+25I100,25,6,25I,N,2024,Qtr 4,novembre,6,Responsable logistique,Achat-Logistique,Logistique générale,121
+25I200,25,6,25I,N,2024,Qtr 4,novembre,6,Gestionnaire de stocks,Achat-Logistique,Logistique générale,876
+25I201,25,6,25I,N,2024,Qtr 4,novembre,6,Gestionnaire de stocks cariste,Achat-Logistique,Logistique générale,65
+25I300,25,6,25I,N,2024,Qtr 4,novembre,6,Agent de logistique,Achat-Logistique,Logistique générale,1529
+25I302,25,6,25I,N,2024,Qtr 4,novembre,6,Conducteur livreur,Achat-Logistique,Logistique générale,190
+25I303,25,6,25I,N,2024,Qtr 4,novembre,6,Agent de collecte des déchets,Achat-Logistique,Logistique générale,92
+25I304,25,6,25I,N,2024,Qtr 4,novembre,6,Agent de logistique linge,Achat-Logistique,Logistique générale,275
+25I305,25,6,25I,N,2024,Qtr 4,novembre,6,Coursier,Achat-Logistique,Logistique générale,386
+25I307,25,6,25I,N,2024,Qtr 4,novembre,6,Conducteur transport de personnes,Achat-Logistique,Logistique générale,71
+25I308,25,6,25I,N,2024,Qtr 4,novembre,6,Vaguemestre,Achat-Logistique,Logistique générale,149
+25I309,25,6,25I,N,2024,Qtr 4,novembre,6,Chauffeur PL - SPL,Achat-Logistique,Logistique générale,15
+25I400,25,6,25I,N,2024,Qtr 4,novembre,6,Encadrant logistique,Achat-Logistique,Logistique générale,119
+25I401,25,6,25I,N,2024,Qtr 4,novembre,6,Encadrant gestion des déchets,Achat-Logistique,Logistique générale,12
+25I402,25,6,25I,N,2024,Qtr 4,novembre,6,Encadrant magasin,Achat-Logistique,Logistique générale,104
+25I403,25,6,25I,N,2024,Qtr 4,novembre,6,Encadrant transport,Achat-Logistique,Logistique générale,25
+25IAA0,25,6,25I,N,2024,Qtr 4,novembre,6,Logisticien,Achat-Logistique,Logistique générale,595
+25IAB0,25,6,25I,N,2024,Qtr 4,novembre,6,Régulateur des transports,Achat-Logistique,Logistique générale,100
+25IAC0,25,6,25I,N,2024,Qtr 4,novembre,6,Imprimeur / Reprographe,Achat-Logistique,Logistique générale,37
+25M100,25,6,25M,N,2024,Qtr 4,novembre,6,Responsable blanchisserie,Achat-Logistique,Blanchisserie - Linge,28
+25M200,25,6,25M,N,2024,Qtr 4,novembre,6,Agent de blanchisserie,Achat-Logistique,Blanchisserie - Linge,442
+25M300,25,6,25M,N,2024,Qtr 4,novembre,6,Lingère - couturière,Achat-Logistique,Blanchisserie - Linge,41
+25M400,25,6,25M,N,2024,Qtr 4,novembre,6,Encadrant production blanchisserie,Achat-Logistique,Blanchisserie - Linge,33
+25R100,25,6,25R,N,2024,Qtr 4,novembre,6,Encadrant production culinaire,Achat-Logistique,Restauration - Hôtellerie,113
+25R200,25,6,25R,N,2024,Qtr 4,novembre,6,Cuisinier,Achat-Logistique,Restauration - Hôtellerie,402
+25R203,25,6,25R,N,2024,Qtr 4,novembre,6,Agent de biberonnerie,Achat-Logistique,Restauration - Hôtellerie,152
+25R204,25,6,25R,N,2024,Qtr 4,novembre,6,Agent de diététique,Achat-Logistique,Restauration - Hôtellerie,73
+25R300,25,6,25R,N,2024,Qtr 4,novembre,6,Agent de restauration d hôtellerie,Achat-Logistique,Restauration - Hôtellerie,3200
+25R400,25,6,25R,N,2024,Qtr 4,novembre,6,Conseiller hôtelier,Achat-Logistique,Restauration - Hôtellerie,59
+25R500,25,6,25R,N,2024,Qtr 4,novembre,6,Maîtresse de maison,Achat-Logistique,Restauration - Hôtellerie,12
+25R700,25,6,25R,N,2024,Qtr 4,novembre,6,Responsable restauration,Achat-Logistique,Restauration - Hôtellerie,155
+25R800,25,6,25R,N,2024,Qtr 4,novembre,6,Responsable hôtelier,Achat-Logistique,Restauration - Hôtellerie,16
+30C100,30,6,30C,N,2024,Qtr 4,novembre,6,Coordinateur qualité/gestion risque,"Qualité, hygiène, sécurité, environnement",Qualité-Prévention et gestion des risques,125
+30C101,30,6,30C,N,2024,Qtr 4,novembre,6,Responsable qualité,"Qualité, hygiène, sécurité, environnement",Qualité-Prévention et gestion des risques,149
+30C102,30,6,30C,N,2024,Qtr 4,novembre,6,Responsable gestion des risques,"Qualité, hygiène, sécurité, environnement",Qualité-Prévention et gestion des risques,53
+30C200,30,6,30C,N,2024,Qtr 4,novembre,6,Animateur qualité/gestion risques,"Qualité, hygiène, sécurité, environnement",Qualité-Prévention et gestion des risques,54
+30C201,30,6,30C,N,2024,Qtr 4,novembre,6,Auditeur qualité interne,"Qualité, hygiène, sécurité, environnement",Qualité-Prévention et gestion des risques,16
+30C400,30,6,30C,N,2024,Qtr 4,novembre,6,Chargé des relations usagers assoc,"Qualité, hygiène, sécurité, environnement",Qualité-Prévention et gestion des risques,120
+30F100,30,6,30F,N,2024,Qtr 4,novembre,6,Hygiéniste,"Qualité, hygiène, sécurité, environnement",Hygiène,78
+30F200,30,6,30F,N,2024,Qtr 4,novembre,6,Encadrant bio-nettoyage,"Qualité, hygiène, sécurité, environnement",Hygiène,58
+30F300,30,6,30F,N,2024,Qtr 4,novembre,6,Agent de bio-nettoyage,"Qualité, hygiène, sécurité, environnement",Hygiène,852
+30F400,30,6,30F,N,2024,Qtr 4,novembre,6,Encadrant de stérilisation,"Qualité, hygiène, sécurité, environnement",Hygiène,95
+30F500,30,6,30F,N,2024,Qtr 4,novembre,6,Agent de stérilisation,"Qualité, hygiène, sécurité, environnement",Hygiène,952
+30F800,30,6,30F,N,2024,Qtr 4,novembre,6,Bio-hygiéniste,"Qualité, hygiène, sécurité, environnement",Hygiène,15
+30I100,30,6,30I,N,2024,Qtr 4,novembre,6,Conseiller prévention risques prof,"Qualité, hygiène, sécurité, environnement",Santé et sécurité au travail et environnement,127
+30I300,30,6,30I,N,2024,Qtr 4,novembre,6,Conseiller environnemt dévt durable,"Qualité, hygiène, sécurité, environnement",Santé et sécurité au travail et environnement,48
+30IAA0,30,6,30I,N,2024,Qtr 4,novembre,6,Médecin du travail,"Qualité, hygiène, sécurité, environnement",Santé et sécurité au travail et environnement,101
+30L100,30,6,30L,N,2024,Qtr 4,novembre,6,Encadrant sécurité personnes biens,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,116
+30L200,30,6,30L,N,2024,Qtr 4,novembre,6,Agent de sécurité incendie,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,229
+30L201,30,6,30L,N,2024,Qtr 4,novembre,6,Chef d équipe de sécurité incendie,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,103
+30L300,30,6,30L,N,2024,Qtr 4,novembre,6,Encadrant sécurité incendie,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,105
+30L400,30,6,30L,N,2024,Qtr 4,novembre,6,Agent sécurité personnes et biens,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,73
+30L401,30,6,30L,N,2024,Qtr 4,novembre,6,Chef équipe sécurité personnes bien,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,12
+30L600,30,6,30L,N,2024,Qtr 4,novembre,6,Responsable de la sécurité,"Qualité, hygiène, sécurité, environnement",Sécurité des personnes et des biens,14
+35F050,35,6,35F,N,2024,Qtr 4,novembre,6,Chargé applications informatiques,Systèmes d'information,Conception et intégration des applications,200
+35F300,35,6,35F,N,2024,Qtr 4,novembre,6,Chef de projet informatique,Systèmes d'information,Conception et intégration des applications,446
+35F301,35,6,35F,N,2024,Qtr 4,novembre,6,Chef projet informatiqu intégration,Systèmes d'information,Conception et intégration des applications,52
+35F302,35,6,35F,N,2024,Qtr 4,novembre,6,Chef projet informatique conception,Systèmes d'information,Conception et intégration des applications,26
+35F303,35,6,35F,N,2024,Qtr 4,novembre,6,Chef de projet informatique PGI,Systèmes d'information,Conception et intégration des applications,27
+35FAA0,35,6,35F,N,2024,Qtr 4,novembre,6,Concepteur développeur informatique,Systèmes d'information,Conception et intégration des applications,78
+35FAA1,35,6,35F,N,2024,Qtr 4,novembre,6,Intégrateur d applications,Systèmes d'information,Conception et intégration des applications,23
+35FAA2,35,6,35F,N,2024,Qtr 4,novembre,6,Paramétreur PGI,Systèmes d'information,Conception et intégration des applications,9
+35I100,35,6,35I,N,2024,Qtr 4,novembre,6,Architecte/Urbaniste du SI,Systèmes d'information,Expertise systèmes d'information,12
+35I200,35,6,35I,N,2024,Qtr 4,novembre,6,Expert technique,Systèmes d'information,Expertise systèmes d'information,64
+35I201,35,6,35I,N,2024,Qtr 4,novembre,6,Expert tech système exploitation SI,Systèmes d'information,Expertise systèmes d'information,24
+35I202,35,6,35I,N,2024,Qtr 4,novembre,6,Expert technique Réseau Télécom SI,Systèmes d'information,Expertise systèmes d'information,12
+35I203,35,6,35I,N,2024,Qtr 4,novembre,6,Expert tech Architecture service SI,Systèmes d'information,Expertise systèmes d'information,18
+35I204,35,6,35I,N,2024,Qtr 4,novembre,6,Expert technique bases données SI,Systèmes d'information,Expertise systèmes d'information,4
+35I300,35,6,35I,N,2024,Qtr 4,novembre,6,Responsable sécurité systèmes info,Systèmes d'information,Expertise systèmes d'information,10
+35IAA0,35,6,35I,N,2024,Qtr 4,novembre,6,Resp pilotage portefeuil projets SI,Systèmes d'information,Expertise systèmes d'information,17
+35IAB0,35,6,35I,N,2024,Qtr 4,novembre,6,Encadrant systèmes bases données SI,Systèmes d'information,Expertise systèmes d'information,2
+35IAB1,35,6,35I,N,2024,Qtr 4,novembre,6,Responsable système base données SI,Systèmes d'information,Expertise systèmes d'information,8
+35IAC0,35,6,35I,N,2024,Qtr 4,novembre,6,Expert méthode et qualité SI,Systèmes d'information,Expertise systèmes d'information,5
+35IAD0,35,6,35I,N,2024,Qtr 4,novembre,6,Expert cyber sécurité SI,Systèmes d'information,Expertise systèmes d'information,9
+35IAE0,35,6,35I,N,2024,Qtr 4,novembre,6,Ergonome designer SI,Systèmes d'information,Expertise systèmes d'information,2
+35L300,35,6,35L,N,2024,Qtr 4,novembre,6,Intervenant support inf utilisateur,Systèmes d'information,Support et exploitation,119
+35L301,35,6,35L,N,2024,Qtr 4,novembre,6,Intervenant utilisateurs technique,Systèmes d'information,Support et exploitation,13
+35L302,35,6,35L,N,2024,Qtr 4,novembre,6,Intervenant utilisateurs applicatif,Systèmes d'information,Support et exploitation,30
+35L303,35,6,35L,N,2024,Qtr 4,novembre,6,Intervenant utilisat poste travail,Systèmes d'information,Support et exploitation,225
+35L305,35,6,35L,N,2024,Qtr 4,décembre,20,Technicien data center,Systèmes d'information,Support et exploitation,0
+35L400,35,6,35L,N,2024,Qtr 4,novembre,6,Exploitant technique,Systèmes d'information,Support et exploitation,16
+35L401,35,6,35L,N,2024,Qtr 4,novembre,6,Administrateur de systèmes,Systèmes d'information,Support et exploitation,110
+35L402,35,6,35L,N,2024,Qtr 4,novembre,6,Analyste d exploitation,Systèmes d'information,Support et exploitation,31
+35L403,35,6,35L,N,2024,Qtr 4,novembre,6,Technicien d exploitation,Systèmes d'information,Support et exploitation,31
+35L404,35,6,35L,N,2024,Qtr 4,novembre,6,Administrateur de bases de données,Systèmes d'information,Support et exploitation,11
+35L405,35,6,35L,N,2024,Qtr 4,novembre,6,Technicien réseau / Télécom,Systèmes d'information,Support et exploitation,61
+35L406,35,6,35L,N,2024,Qtr 4,novembre,6,Administrateur réseau / Télécom,Systèmes d'information,Support et exploitation,48
+35LAA0,35,6,35L,N,2024,Qtr 4,novembre,6,Encadrant production/pré-production,Systèmes d'information,Support et exploitation,7
+35LAB0,35,6,35L,N,2024,Qtr 4,novembre,6,Encadrant réseau / Télécom,Systèmes d'information,Support et exploitation,22
+35LAC0,35,6,35L,N,2024,Qtr 4,novembre,6,Encadrant poste de travail /Support,Systèmes d'information,Support et exploitation,54
+35LAD0,35,6,35L,N,2024,Qtr 4,novembre,6,Gestionnaire des incidents SI,Systèmes d'information,Support et exploitation,9
+40F100,40,6,40F,N,2024,Qtr 4,novembre,6,Encadrant Accueil - Standard,"Analyse, traitement et gestion de l'info",Accueil et orientation des personnes,58
+40F200,40,6,40F,N,2024,Qtr 4,novembre,6,Agent d accueil,"Analyse, traitement et gestion de l'info",Accueil et orientation des personnes,1244
+40F201,40,6,40F,N,2024,Qtr 4,novembre,6,Standardiste,"Analyse, traitement et gestion de l'info",Accueil et orientation des personnes,506
+40F300,40,6,40F,N,2024,Qtr 4,novembre,6,Assistant de régulation médicale,"Analyse, traitement et gestion de l'info",Accueil et orientation des personnes,1089
+40F301,40,6,40F,N,2024,Qtr 4,novembre,6,Assist régulation méd superviseur,"Analyse, traitement et gestion de l'info",Accueil et orientation des personnes,5
+40FAA0,40,6,40F,N,2024,Qtr 4,novembre,6,Chargé de rendez vous en santé,"Analyse, traitement et gestion de l'info",Accueil et orientation des personnes,1092
+40L100,40,6,40L,N,2024,Qtr 4,novembre,6,Encadrant dépt information médicale,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,9
+40L200,40,6,40L,N,2024,Qtr 4,novembre,6,Secrétaire médical,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,5421
+40L300,40,6,40L,N,2024,Qtr 4,novembre,6,Encadrant des secrétariats médicaux,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,53
+40L400,40,6,40L,O,2024,Qtr 4,novembre,6,Technicien d information médicale,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,274
+40L500,40,6,40L,N,2024,Qtr 4,novembre,6,Analyste des données activités hosp,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,11
+40L700,40,6,40L,N,2024,Qtr 4,novembre,6,Statisticien,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,25
+40LAA0,40,6,40L,N,2024,Qtr 4,novembre,6,Chargé de la protection des données,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,16
+40LAB0,40,6,40L,N,2024,Qtr 4,novembre,6,Data scientist,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,50
+40LAC0,40,6,40L,N,2024,Qtr 4,novembre,6,Data manager,"Analyse, traitement et gestion de l'info",Gestion médico adminis traitement info médica,73
+40M100,40,6,40M,N,2024,Qtr 4,novembre,6,Encadrant archives,"Analyse, traitement et gestion de l'info",Archivage et Documentation,35
+40M200,40,6,40M,N,2024,Qtr 4,novembre,6,Archiviste,"Analyse, traitement et gestion de l'info",Archivage et Documentation,669
+40M300,40,6,40M,N,2024,Qtr 4,novembre,6,Documentaliste,"Analyse, traitement et gestion de l'info",Archivage et Documentation,29
+40M400,40,6,40M,N,2024,Qtr 4,novembre,6,Encadrant documentaliste,"Analyse, traitement et gestion de l'info",Archivage et Documentation,9
+40M500,40,6,40M,N,2024,Qtr 4,novembre,6,Responsable archives,"Analyse, traitement et gestion de l'info",Archivage et Documentation,17
+40M600,40,6,40M,N,2024,Qtr 4,novembre,6,Bibliothécaire - Médiathécaire,"Analyse, traitement et gestion de l'info",Archivage et Documentation,47
+45C100,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur logistique et achats,"Management, gestion et aide à la décision",Management stratégique,45
+45C200,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur des affaires juridiques,"Management, gestion et aide à la décision",Management stratégique,17
+45C300,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur des soins établissement,"Management, gestion et aide à la décision",Management stratégique,65
+45C301,45,6,45C,N,2024,Qtr 4,novembre,6,Coordonnateur général des soins,"Management, gestion et aide à la décision",Management stratégique,29
+45C350,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur des finances,"Management, gestion et aide à la décision",Management stratégique,106
+45C400,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur soins institut formation,"Management, gestion et aide à la décision",Management stratégique,27
+45C450,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur des ressources humaines,"Management, gestion et aide à la décision",Management stratégique,104
+45C550,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur qualité risques usagers,"Management, gestion et aide à la décision",Management stratégique,39
+45C600,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur investissements maintenan,"Management, gestion et aide à la décision",Management stratégique,31
+45C650,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur aff médicales stratégie,"Management, gestion et aide à la décision",Management stratégique,62
+45C700,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur systèmes d information,"Management, gestion et aide à la décision",Management stratégique,43
+45C701,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur de projets informatiques,"Management, gestion et aide à la décision",Management stratégique,99
+45C702,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur technique informatique,"Management, gestion et aide à la décision",Management stratégique,18
+45C750,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur de la communication,"Management, gestion et aide à la décision",Management stratégique,13
+45C800,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur de Groupe Hospitalier,"Management, gestion et aide à la décision",Management stratégique,33
+45C801,45,6,45C,N,2024,Qtr 4,novembre,6,Adjoint au directeur de GH,"Management, gestion et aide à la décision",Management stratégique,35
+45C802,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur de l inspection et audit,"Management, gestion et aide à la décision",Management stratégique,18
+45C850,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur de site - projets,"Management, gestion et aide à la décision",Management stratégique,225
+45CAA0,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur général,"Management, gestion et aide à la décision",Management stratégique,3
+45CAB0,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur général adjoint,"Management, gestion et aide à la décision",Management stratégique,8
+45CAC0,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur de cabinet,"Management, gestion et aide à la décision",Management stratégique,9
+45CAD0,45,6,45C,N,2024,Qtr 4,novembre,6,Directeur des opérations,"Management, gestion et aide à la décision",Management stratégique,34
+45F200,45,6,45F,N,2024,Qtr 4,novembre,6,Responsable des ressources humaines,"Management, gestion et aide à la décision",Ressources humaines,136
+45F202,45,6,45F,N,2024,Qtr 4,novembre,6,Responsable ressources humaines méd,"Management, gestion et aide à la décision",Ressources humaines,36
+45F300,45,6,45F,N,2024,Qtr 4,novembre,6,Chargé de la formation continue,"Management, gestion et aide à la décision",Ressources humaines,64
+45F400,45,6,45F,N,2024,Qtr 4,novembre,6,Chargé du développement des RH,"Management, gestion et aide à la décision",Ressources humaines,142
+45F401,45,6,45F,N,2024,Qtr 4,novembre,6,Spécialiste GPEC,"Management, gestion et aide à la décision",Ressources humaines,2
+45F403,45,6,45F,N,2024,Qtr 4,novembre,6,Spé recrut mobilité parcours prof,"Management, gestion et aide à la décision",Ressources humaines,22
+45F600,45,6,45F,N,2024,Qtr 4,novembre,6,Chargé des relations sociales,"Management, gestion et aide à la décision",Ressources humaines,73
+45F700,45,6,45F,N,2024,Qtr 4,novembre,6,Gestionnaire ressources humaines,"Management, gestion et aide à la décision",Ressources humaines,148
+45F701,45,6,45F,N,2024,Qtr 4,novembre,6,Gestionnaire paie/carrière,"Management, gestion et aide à la décision",Ressources humaines,897
+45F702,45,6,45F,N,2024,Qtr 4,novembre,6,Gestionnaire retraite,"Management, gestion et aide à la décision",Ressources humaines,78
+45F703,45,6,45F,N,2024,Qtr 4,novembre,6,Gestionnaire accidents travail/MP,"Management, gestion et aide à la décision",Ressources humaines,76
+45F704,45,6,45F,N,2024,Qtr 4,novembre,6,Gestionnaire du temps de travail,"Management, gestion et aide à la décision",Ressources humaines,78
+45F705,45,6,45F,N,2024,Qtr 4,novembre,6,"Gestionnaire recrutement, mobilité","Management, gestion et aide à la décision",Ressources humaines,71
+45F706,45,6,45F,N,2024,Qtr 4,novembre,6,Assistant de formation,"Management, gestion et aide à la décision",Ressources humaines,168
+45F707,45,6,45F,N,2024,Qtr 4,novembre,6,Gestionnaire des RH médicales,"Management, gestion et aide à la décision",Ressources humaines,216
+45F750,45,6,45F,N,2024,Qtr 4,novembre,6,Encadrant gestion ressource humaine,"Management, gestion et aide à la décision",Ressources humaines,109
+45F751,45,6,45F,N,2024,Qtr 4,novembre,6,Encadrant gestion RH médicales,"Management, gestion et aide à la décision",Ressources humaines,16
+45I200,45,6,45I,N,2024,Qtr 4,novembre,6,Chargé de la trésorerie et dette,"Management, gestion et aide à la décision","Finances, comptabilité",10
+45I300,45,6,45I,N,2024,Qtr 4,novembre,6,Responsable budgétaire et financier,"Management, gestion et aide à la décision","Finances, comptabilité",170
+45I301,45,6,45I,N,2024,Qtr 4,novembre,6,Responsable admissions/frais séj/TE,"Management, gestion et aide à la décision","Finances, comptabilité",124
+45I700,45,6,45I,N,2024,Qtr 4,novembre,6,Gestionnaire admission/frais séj/TE,"Management, gestion et aide à la décision","Finances, comptabilité",2235
+45I800,45,6,45I,N,2024,Qtr 4,novembre,6,Gestionnaire comptable et achat,"Management, gestion et aide à la décision","Finances, comptabilité",820
+45I900,45,6,45I,N,2024,Qtr 4,novembre,6,Gestionnaire finances,"Management, gestion et aide à la décision","Finances, comptabilité",113
+45I901,45,6,45I,N,2024,Qtr 4,novembre,6,Gestionnaire régie,"Management, gestion et aide à la décision","Finances, comptabilité",157
+45IAA0,45,6,45I,N,2024,Qtr 4,novembre,6,Régisseur,"Management, gestion et aide à la décision","Finances, comptabilité",34
+45L100,45,6,45L,N,2024,Qtr 4,novembre,6,Contrôleur de gestion,"Management, gestion et aide à la décision",Contrôle et organisation,257
+45L101,45,6,45L,N,2024,Qtr 4,novembre,6,Contrôleur de gestion RH,"Management, gestion et aide à la décision",Contrôle et organisation,84
+45L200,45,6,45L,N,2024,Qtr 4,novembre,6,Conseiller en organisation,"Management, gestion et aide à la décision",Contrôle et organisation,474
+45L300,45,6,45L,N,2024,Qtr 4,novembre,6,Gestionnaire de données,"Management, gestion et aide à la décision",Contrôle et organisation,33
+45M100,45,6,45M,N,2024,Qtr 4,novembre,6,Conseiller juridique,"Management, gestion et aide à la décision",Droit et juridique,107
+45M200,45,6,45M,N,2024,Qtr 4,novembre,6,Chargé de valorisation de recherche,"Management, gestion et aide à la décision",Droit et juridique,69
+45R200,45,6,45R,N,2024,Qtr 4,novembre,6,Chargé de communication,"Management, gestion et aide à la décision",Communication,186
+45R201,45,6,45R,N,2024,Qtr 4,novembre,6,Responsable de la communication,"Management, gestion et aide à la décision",Communication,61
+45R202,45,6,45R,N,2024,Qtr 4,novembre,6,Attaché de presse,"Management, gestion et aide à la décision",Communication,9
+45R400,45,6,45R,N,2024,Qtr 4,novembre,6,Webmestre éditorial,"Management, gestion et aide à la décision",Communication,12
+45R500,45,6,45R,N,2024,Qtr 4,novembre,6,Technicien communication multimédia,"Management, gestion et aide à la décision",Communication,9
+45R501,45,6,45R,N,2024,Qtr 4,novembre,6,Infographiste,"Management, gestion et aide à la décision",Communication,27
+45R502,45,6,45R,N,2024,Qtr 4,novembre,6,Photographe,"Management, gestion et aide à la décision",Communication,10
+45R503,45,6,45R,N,2024,Qtr 4,novembre,6,Cinéaste/vidéaste,"Management, gestion et aide à la décision",Communication,3
+45RAA0,45,6,45R,N,2024,Qtr 4,novembre,6,Assistant de communication,"Management, gestion et aide à la décision",Communication,19
+45S200,45,6,45S,N,2024,Qtr 4,novembre,6,Agent de gestion administrative,"Management, gestion et aide à la décision",Gestion et administration,717
+45S300,45,6,45S,N,2024,Qtr 4,novembre,6,Secrétaire,"Management, gestion et aide à la décision",Gestion et administration,1476
+45S301,45,6,45S,N,2024,Qtr 4,novembre,6,Assistante de direction,"Management, gestion et aide à la décision",Gestion et administration,312
+45S302,45,6,45S,N,2024,Qtr 4,novembre,6,Secrétaire hospitalière,"Management, gestion et aide à la décision",Gestion et administration,1281
+45S500,45,6,45S,N,2024,Qtr 4,novembre,6,Cadre administratif de DMU,"Management, gestion et aide à la décision",Gestion et administration,198
+45SAA0,45,6,45S,N,2024,Qtr 4,novembre,6,Responsable gestion administrative,"Management, gestion et aide à la décision",Gestion et administration,487
+45SAB0,45,6,45S,N,2024,Qtr 4,novembre,6,Gestionnaire administratif,"Management, gestion et aide à la décision",Gestion et administration,593
+AP000,AP,5,AP0,N,2024,Qtr 4,novembre,6,/,Autres Emplois / Métiers dans HRA,Inconnu,32
+AP001,AP,5,APC,N,2024,Qtr 4,novembre,6,Remplacement de Congé Annuel,Autres Emplois / Métiers dans HRA,Emplois divers,3967
+AP004,AP,5,APE,N,2024,Qtr 4,novembre,6,Etudiant des écoles APHP,Autres Emplois / Métiers dans HRA,Etudiants,27053
+AP005,AP,5,APC,N,2024,Qtr 4,novembre,6,Apprenti,Autres Emplois / Métiers dans HRA,Emplois divers,789
+AP006,AP,5,APC,N,2024,Qtr 4,novembre,6,Stagiaire extérieur,Autres Emplois / Métiers dans HRA,Emplois divers,4172
+AP007,AP,5,APL,N,2024,Qtr 4,novembre,6,Chercheur INSERM,Autres Emplois / Métiers dans HRA,Autres,1
+AP009,AP,5,APL,N,2024,Qtr 4,novembre,6,Médecin agréé,Autres Emplois / Métiers dans HRA,Autres,38
+AP010,AP,5,APC,N,2024,Qtr 4,novembre,6,Agent en contrat aidé,Autres Emplois / Métiers dans HRA,Emplois divers,4
+AP011,AP,5,APC,N,2024,Qtr 4,novembre,6,Service civique,Autres Emplois / Métiers dans HRA,Emplois divers,2508
+AP019,AP,5,AP0,N,2024,Qtr 4,novembre,6,Faisant fonction Infirmier,Autres Emplois / Métiers dans HRA,Inconnu,684
+APM00,AP,5,APM,O,2024,Qtr 4,novembre,6,Sage-femme,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,1627
+APM01,AP,5,APM,N,2024,Qtr 4,novembre,6,Coordinatrice organisationnel,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,83
+APM02,AP,5,APM,N,2024,Qtr 4,novembre,6,Coordinatrice stratégique,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,12
+APM03,AP,5,APM,N,2024,Qtr 4,décembre,20,Responsable d unité physiologique,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,0
+APM04,AP,5,APM,N,2024,Qtr 4,novembre,6,Enseignante en maïeutique,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,33
+APM05,AP,5,APM,N,2024,Qtr 4,novembre,6,Directrice formation en maïeutique,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,1
+APM06,AP,5,APM,N,2024,Qtr 4,novembre,6,Coordonnateur en maïeutique,Autres Emplois / Métiers dans HRA,Personnels médicaux relevant du titre IV,18
+CD004,CD,5,CD0,N,2024,Qtr 4,novembre,6,Cadre de direction,Cadre de direction,Cadre de direction,3
+EST00,AP,5,AUE,N,2024,Qtr 4,décembre,20,Participant non APHP formations,Autres Emplois / Métiers dans HRA,Autres extérieurs,0
+FDS00,AP,5,AUE,N,2024,Qtr 4,décembre,20,Pensionné FDS,Autres Emplois / Métiers dans HRA,Autres extérieurs,0
+FOR01,AP,5,AUE,N,2024,Qtr 4,décembre,20,Formateur occasionnel privé,Autres Emplois / Métiers dans HRA,Autres extérieurs,0
+FOR02,AP,5,AUE,N,2024,Qtr 4,décembre,20,Formateur occ public non APHP,Autres Emplois / Métiers dans HRA,Autres extérieurs,0
+NR001,AP,5,APA,N,2024,Qtr 4,novembre,6,Art-thérapeute,Autres Emplois / Métiers dans HRA,Non répertoriés,11
+NR002,AP,5,APA,N,2024,Qtr 4,novembre,6,Ostéopathe,Autres Emplois / Métiers dans HRA,Non répertoriés,7
+NR003,AP,5,APA,N,2024,Qtr 4,novembre,6,Médiateur de santé-pairs,Autres Emplois / Métiers dans HRA,Non répertoriés,28
+NR004,AP,5,APA,N,2024,Qtr 4,novembre,6,Chargé e-santé maladies rares,Autres Emplois / Métiers dans HRA,Non répertoriés,3
+NR005,AP,5,APA,N,2024,Qtr 4,novembre,6,Régulateur examens bio sous traités,Autres Emplois / Métiers dans HRA,Non répertoriés,1
+NR006,AP,5,APA,N,2024,Qtr 4,novembre,6,Formateur en travail social,Autres Emplois / Métiers dans HRA,Non répertoriés,4
+NR007,AP,5,APA,N,2024,Qtr 4,novembre,6,Interprète,Autres Emplois / Métiers dans HRA,Non répertoriés,9
+NR008,AP,5,APA,N,2024,Qtr 4,novembre,6,Architecte,Autres Emplois / Métiers dans HRA,Non répertoriés,7
+NR009,AP,5,APA,N,2024,Qtr 4,novembre,6,Géomètre,Autres Emplois / Métiers dans HRA,Non répertoriés,2
+NR010,AP,5,APA,N,2024,Qtr 4,novembre,6,Directeur de mécénat,Autres Emplois / Métiers dans HRA,Non répertoriés,11
+NR011,AP,5,APA,N,2024,Qtr 4,novembre,6,Conservateur du patrimoine,Autres Emplois / Métiers dans HRA,Non répertoriés,4
+NR012,AP,5,APA,N,2024,Qtr 4,novembre,6,Responsable valorisation patrimoine,Autres Emplois / Métiers dans HRA,Non répertoriés,5
+NR013,AP,5,APA,N,2024,Qtr 4,novembre,6,Conseiller sécurité,Autres Emplois / Métiers dans HRA,Non répertoriés,3
+ZZZZZZ,ZZ,6,ZZZ,N,2024,Qtr 4,novembre,6,MANQUANT,MANQUANT,MANQUANT,26

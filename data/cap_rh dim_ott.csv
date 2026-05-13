@@ -1,0 +1,40 @@
+﻿CD_OTT,COMMENTAIRES,Année,Trimestre,Mois,Jour,Somme de FL_OTT_12H,LB_OTT,LB_OTT_GRP,LB_OTT_MODE,LB_OTT_REP_SHI,LB_OTT_RYTHME,Somme de NB_HR,Somme de NB_MATRIC_FNG
+01,,2023,Qtr 4,décembre,13,0,7h30 Gde éq. de J (37h30 Sem.),07H Jour,07H,07h30 de jour,Jour,7.5,43034
+02,,2023,Qtr 4,décembre,13,1,Alterné 12h jour >= 12h nuit,12H Alternées,12H,Alterné 12h jour/nuit,Alternées,12,8290
+03,,2023,Qtr 4,décembre,13,0,Alterné 10h jour >= 10h nuit,10H Alternées,10H,Alterné 10h jour/nuit,Alternées,10,459
+04,,2023,Qtr 4,décembre,13,0,Alterné 10h nuit > jour,10H Alternées,10H,Alterné 10h jour/nuit,Alternées,10,98
+05,,2023,Qtr 4,décembre,13,0,Alterné 7h30 > 10h/12h nuit,Mixte Alternées,Mixte,Alterné 07h30 jour et 10h/12h nuit,Alternées,7.5,977
+06,,2023,Qtr 4,décembre,13,1,Alterné 12h nuit > jour,12H Alternées,12H,Alterné 12h jour/nuit,Alternées,12,730
+08,,2023,Qtr 4,décembre,13,0,8h de jour (avec RT),08H Jour,08H,08h de jour,Jour,8,573
+09,,2023,Qtr 4,décembre,13,0,8h De Jour (avec RR),08H Jour,08H,08h de jour,Jour,8,180
+10,,2023,Qtr 4,décembre,13,0,Alterné 8h (RT) > 10h/12h nuit,Mixte Alternées,Mixte,Alterné 08h jour et 10h/12h nuit,Alternées,8,73
+11,,2023,Qtr 4,décembre,13,0,7h36 Gde éq. de J (38h Sem.),07H Jour,07H,07h30 de jour,Jour,7.6,42682
+12,,2023,Qtr 4,décembre,13,0,7h50 De Jour (38h20 Semaine),07H Jour,07H,07h50 de jour,Jour,7.8,1
+13,,2023,Qtr 4,décembre,13,0,10h De Jour (35h Semaine),10H Jour,10H,10h de jour,Jour,10,3901
+14,,2023,Qtr 4,décembre,13,1,12h De Jour (35h Semaine),12H Jour,12H,12h de jour,Jour,12,10601
+15,,2023,Qtr 4,décembre,13,0,10h De Nuit (32h30 Semaine),10H Nuit,10H,10h de nuit,Nuit,10,12076
+16,,2023,Qtr 4,décembre,13,1,12h De Nuit (32h30 Semaine),12H Nuit,12H,12h de nuit,Nuit,12,7039
+17,,2023,Qtr 4,décembre,13,0,Alt 8h (RR) > 10-12h nuit,Mixte Alternées,Mixte,Alterné 08h jour et 10h/12h nuit,Alternées,8,5
+18,,2023,Qtr 4,décembre,13,0,7h De Jour (35h Semaine),07H Jour,07H,07h de jour,Jour,7,24824
+19,,2023,Qtr 4,décembre,13,1,12h Ségur jour,12H Jour,12H,12h de jour,Jour,12,5311
+20,,2023,Qtr 4,décembre,13,0,Forfait jours,Forfait jours Jour,Forfait jours,Forfait jours,Jour,8,13896
+40,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 7h36 J > 7h50 J,07H Jour,07H,Alterné 07h36 et 07h50 jour,Jour,7.6,
+41,,2023,Qtr 4,décembre,13,0,Alterné 7h36 > 10h/12h Nuit,Mixte Alternées,Mixte,Alterné 07h36 jour et 10h/12h nuit,Alternées,7.6,735
+42,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 7h50 > 10h/12h Nuit,Mixte Alternées,Mixte,Alterné 07h50 jour et 10h/12h nuit,Alternées,7.8,
+43,OTT inactive,2023,Qtr 4,décembre,13,1,Alterné 12h Jour >  12h Nuit,12H Alternées,12H,Alterné 12h jour/nuit,Alternées,12,
+44,,2023,Qtr 4,décembre,13,1,Alterné 12h Jour = 12h Nuit,12H Alternées,12H,Alterné 12h jour/nuit,Alternées,12,1
+45,,2023,Qtr 4,décembre,13,0,Alterné 7h00 > 10h/12h De Nuit,Mixte Alternées,Mixte,Alterné 07h et 10h/12h nuit,Alternées,7,332
+46,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 10h Jour >  10h Nuit,10H Alternées,10H,Alterné 10h jour et 10h nuit,Alternées,10,
+47,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 10h Jour =  10h Nuit,10H Alternées,10H,Alterné 10h jour et 10h nuit,Alternées,10,
+48,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 10h Nuit > 7h36/7h50 J,Mixte Alternées,Mixte,Alterné 10h nuit et 07h36/07h50 jour,Alternées,10,
+49,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 12h Nuit > 7h36/7h50 J,Mixte Alternées,Mixte,Alterné 12h nuit et 07h36/07h50 jour,Alternées,12,
+50,OTT inactive,2023,Qtr 4,décembre,13,0,Alterné 10h Nuit > 10h/12h J,Mixte Alternées,Mixte,Alterné 10h nuit et 10h/12h jour,Alternées,10,
+51,,2023,Qtr 4,décembre,13,0,Hors Gestion,Hors gestion,Hors gestion,Hors Gestion,Hors gestion,8,33509
+52,,2023,Qtr 4,décembre,13,1,12h Ségur nuit,12H Nuit,12H,12h de nuit,Nuit,12,3606
+53,,2023,Qtr 4,décembre,13,1,Alt 12h Ségur J >= 12h Ségur N,12H Alternées,12H,Alterné 12h jour/nuit,Alternées,12,2754
+54,,2023,Qtr 4,décembre,13,1,Alt 12h Ségur N >= 12h Ségur J,12H Alternées,12H,Alterné 12h jour/nuit,Alternées,12,239
+55,,2023,Qtr 4,décembre,13,0,9h de jour,9H Jour,9H,09h de jour,Jour,9,1435
+56,,2023,Qtr 4,décembre,13,0,8h45 de jour,9H Jour,9H,08h45 de jour,Jour,8.75,559
+57,,2023,Qtr 4,décembre,25,0,Alt 9h > 10/12h de nuit,Mixte Alternées,Mixte,Alterné 09h et 10h/12h nuit,Alternées,9,22
+58,OTT inactive,2025,Qtr 1,janvier,30,0,Alt 8h45 > 10h/12h Nuit,Mixte Alternées,Mixte,08h45 de jour,Alternées,8.75,1
+ZZ,,2023,Qtr 4,décembre,13,1,MANQUANT,MANQUANT,MANQUANT,Pas d'OTT,MANQUANT,0,61371

@@ -1,0 +1,45 @@
+﻿CD_POS_ADM,Année,Trimestre,Mois,Jour,LB_POS_ADM,LB_POS_ADM_ODS
+ACTI,2024,Qtr 1,février,26,Activité,Activité
+ACTPRO,2024,Qtr 1,février,26,Prolongation d'activité,Prolong acti
+AIR,2024,Qtr 1,février,26,Absence irrégulière,Abs. irrégulière
+AOI,2024,Qtr 1,février,26,Dispo org int/ent,Dispo org int/ent
+CAA,2024,Qtr 1,février,26,Cessation anticipée d'activité,Cess.anti.activité
+CEN2,2024,Qtr 1,février,26,Dispo entreprise,Dispo entrepr
+CFP0,2024,Qtr 1,février,26,Congé formation non rémunéré,CFP rému 0%
+CMA,2024,Qtr 1,février,26,Congé maternité,Congé mater.
+CNJ1,2024,Qtr 1,février,26,Congé stag conjoint,C. stag conjoint
+CNJ2,2024,Qtr 1,février,26,Dispo suivi de conjoint,Dispo conjoint
+CPE1,2024,Qtr 1,février,26,Dispo convenance personnelle,Dispo conven perso
+CPE2,2024,Qtr 1,février,26,Congé convenance personnelle,Congé contr perso
+CST,2024,Qtr 1,février,26,Congé sans traitement,Congé sans trait.
+DET,2024,Qtr 1,février,26,Détachement hors AP,Détach hors AP
+DM2,2024,Qtr 1,février,26,Dispo d'office invalidité 50%,Dispo off.Sécu 50%
+DM3,2024,Qtr 1,février,26,Dispo d'office invalidité 70%,Dispo off.Sécu 70%
+DPP,2024,Qtr 4,décembre,2,Demi-traitement provisoire (DORS),Posit prov 50
+DTI,2024,Qtr 4,décembre,9,Demi-traitement invalidité,DEMI-TRAIT INVALID
+EN1A,2024,Qtr 1,février,26,Congé parental titulaire 1ère Année,Congé parent 1A
+EN2A,2024,Qtr 1,février,26,Congé parent titulaire autres années,Congé parent 2A
+ENC1,2024,Qtr 1,février,26,Congé parental contractuel 1ère année,Congé parent CO 1A
+ENC2,2024,Qtr 1,février,26,Congé parental contractuel années suivantes,Congé parental CO
+ENC5,2025,Qtr 1,février,3,Congé parental contracuel 5A,Congé parent CO 5A
+ENCO,2024,Qtr 1,février,26,Congé parental contractuel,Congés parent. CO
+ENF1,2024,Qtr 1,février,26,Dispo enfant,Dispo enfant
+ENF2,2024,Qtr 1,février,26,Congé contr enfant,Congé contr enfant
+ENF3,2024,Qtr 1,février,26,Congé parental stagiaire,C. stag parental
+ENF4,2024,Qtr 1,février,26,Congé parental,Congé parent
+ENF5,2024,Qtr 1,février,26,Dispo enfant 5A,Dispo enfant 5A
+ENT1,2024,Qtr 1,février,26,Congé parental titulaire 5 premières années,Congé parental TI
+ENT2,2024,Qtr 2,avril,15,Congé parental titulaire années suivantes,Congé parental T2
+ERG,2024,Qtr 1,février,26,Dispo études,Dispo études
+ETE,2024,Qtr 1,février,26,Exclusion temporaire,Excl. temporaire
+FINAC,2024,Qtr 1,février,26,Sortie définitive en cours de mois,Sortie définit
+MAD,2024,Qtr 1,février,26,Mise à disposition,MAD
+MADEF,2024,Qtr 1,février,26,Mise à disposition MADEF,MADEF
+MAFONC,2024,Qtr 1,février,26,Maintien en fonction,Maintien en fct
+MAND,2024,Qtr 4,novembre,18,Dispo mandat d'élu,Dispo mandat élu
+OFF2,2024,Qtr 1,février,26,Dispo d'office,Dispo office
+PMR,2024,Qtr 1,février,26,Période militaire rémunérée,Pér.milit rému
+RECLIM,2024,Qtr 1,février,26,Recul limite d'âge,Recul limite d'âge
+SOI1,2024,Qtr 1,février,26,Congé proche aidant stagiaire,C. stag soins
+SOI2,2024,Qtr 1,février,26,Dispo proche aidant,Dispo soins
+ZZZZ,2024,Qtr 2,avril,15,MANQUANT,MANQUANT

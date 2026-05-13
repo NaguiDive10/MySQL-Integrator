@@ -1,0 +1,19 @@
+﻿CD_GRP_ABS,CD_GRP_ABS_OLD,CD_PERIM_GRP_ABS,CD_TYPE_GRP_ABS,Année,Trimestre,Mois,Jour,LB_GRP_ABS,LB_GRP_ABS (groupes),LB_GRP_ABS_ODS_C,LB_GRP_ABS_ODS_L,LB_TYPE_GRP_ABS
+ACT,AT,O,M,2024,Qtr 4,novembre,27,Accident de travail,Autre,ACCIDENT DE TRAVAIL,ACCIDENT DE TRAVAIL,Médical
+ADO,AD,O,N,2024,Qtr 4,novembre,27,Congés d'adoption,Autre,CONGE ADOPTION,CONGE ADOPTION,Non-médical
+AIR,AI,N,N,2024,Qtr 4,novembre,27,Absence irrégulière,Autre,ABSENCE IRREGULIERE,ABSENCE IRREGULIERE,Non-médical
+ARE,AR,N,N,2024,Qtr 4,novembre,27,Absence à régulariser,Autre,ABSENCE A REGUL,ABSENCE A REGULARISER,Non-médical
+AST,AST,N,N,2024,Qtr 4,novembre,27,Astreinte,Autre,ASTREINTE,ASTREINTE,Non-médical
+CBO,CON,N,N,2024,Qtr 4,novembre,27,Congés bonifiés,Autre,CONGES BONIFIES,CONGES BONIFIES,Non-médical
+CLD,CLD,O,M,2024,Qtr 4,novembre,27,Congé longue durée,Autre,CONGE LONGUE DUREE,CONGE LONGUE DUREE,Médical
+CLM,CLM,O,M,2024,Qtr 4,novembre,27,Congé longue maladie,Autre,CONGE LONGUE MALADIE,CONGE LONGUE MALADIE,Médical
+CMF,CF,N,N,2024,Qtr 4,novembre,27,Congé familial,Autre,CONGE FAMILIAL,CONGE FAMILIAL,Non-médical
+DIV,DIV,N,N,2024,Qtr 4,novembre,27,Divers,Autre,DIVERS,DIVERS,Non-médical
+FOR,FOR,N,N,2024,Qtr 4,novembre,27,Formation professionnelle,Autre,FORMATION PRO,FORMATION PROFESSIONNELLE,Non-médical
+MAL,MAL,O,M,2024,Qtr 4,novembre,27,Maladie,Autre,MALADIE,MALADIE,Médical
+MAP,PRO,O,M,2024,Qtr 4,novembre,27,Maladie professionnelle,Autre,MALADIE PRO,MALADIE PROFESSIONNELLE,Médical
+MAT,MAT,O,N,2024,Qtr 4,novembre,27,Maternité,Autre,MATERNITE,MATERNITE,Non-médical
+MED,MT,N,M,2024,Qtr 4,novembre,27,Médecine du travail,Autre,MEDECINE DU TRAVAIL,MEDECINE DU TRAVAIL,Médical
+MTD,MATD,N,N,2024,Qtr 4,novembre,27,Maternité pendant disponibilité,Autre,MATERNITE PDT DISPO,MATERNITE PENDANT DISPONIBILITE,Non-médical
+SUS,SUS,N,N,2024,Qtr 4,novembre,27,Suspension,Autre,SUSPENSION,SUSPENSION,Non-médical
+SYN,SYN,N,N,2024,Qtr 4,novembre,27,Activité syndicale,Autre,ACTIVITE SYNDICALE,ACTIVITE SYNDICALE,Non-médical
