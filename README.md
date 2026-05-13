@@ -4,6 +4,8 @@
 
 *En bref : chargement automatisé de fichiers plats vers MySQL avec règles de nommage `dim_*` / `fact_*` et configuration externalisée.*
 
+Dépôt : [github.com/NaguiDive10/MySQL-Integrator](https://github.com/NaguiDive10/MySQL-Integrator)
+
 ## Prérequis
 
 - Python 3.10+ recommandé
